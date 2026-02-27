@@ -2,7 +2,7 @@ Original script https://github.com/Fami6Xx/fami-sell-vehicles that is based of a
 Hope you guys like it !
 
 Dependencies
-ESX (No QB support)
+ESX
 OxLib
 OxMySQL
 Ox_Target
